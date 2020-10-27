@@ -25,7 +25,7 @@
     }
 
     &__item {
-        color: $color-gray-light-1
+        color: $color-gray-light-1;
         display: inline-block;
         &:not(:last-child) {
             margin-right: 2rem;
